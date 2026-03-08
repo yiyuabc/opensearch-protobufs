@@ -47,7 +47,6 @@ excluded_schemas:
   - BucketScriptAggregation
   - BucketSelectorAggregation
   - BucketSortAggregation
-  - CardinalityAggregation
   - ChildrenAggregation
   - CompositeAggregation
   - CumulativeCardinalityAggregation
@@ -107,7 +106,6 @@ excluded_schemas:
   - AvgAggregate
   - BoxPlotAggregate
   - BucketMetricValueAggregate
-  - CardinalityAggregate
   - ChildrenAggregate
   - CompositeAggregate
   - CumulativeCardinalityAggregate
